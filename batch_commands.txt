@@ -1,0 +1,10 @@
+add_group instructors
+add_group friends
+add_user instructors reid 
+add_user friends david3 
+add_user instructors nizam14 
+add_xct instructors reid 65
+add_xct friends david3 15.08
+add_xct instructors nizam14 110.95
+add_xct instructors reid 220.95
+add_xct friends david3 10.70

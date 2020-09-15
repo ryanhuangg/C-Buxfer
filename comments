@@ -1,0 +1,31 @@
+add_group() 12/13
+  perror("malloc") instead (no marks deducted)
+
+find_group() 4/4
+
+list_groups() 3/3
+
+add_user() 7/7
+
+remove_user() 9/12
+  didn't check for vars == null correctly
+  didn't free name string
+
+list_users 2/3
+  doeesn't list balance
+
+user_balance 5/5
+
+under_paid 6/6
+
+find_prev_user 7/7
+
+add_xct 23/23
+
+recent_xct 5/5
+
+remove_xct 9/12
+  if group->xct == null didn't take action to fix for seg fault
+  did not free name string
+
+
